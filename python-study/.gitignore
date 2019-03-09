@@ -1,0 +1,6 @@
+update_csv/
+*.csv
+*.json
+*.pickle
+dataset/
+constant/
